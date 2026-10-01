@@ -1,0 +1,10 @@
+#Text RPG save data
+#Thu Oct 01 20:09:11 HKT 2026
+coins=3
+health=69
+inventory.0=生命藥水
+inventory.1=普通長劍
+inventory.count=2
+version=1
+weaponBonus=0
+weaponName=普通長劍
